@@ -10,11 +10,13 @@ Department of Information Technology, Uppsala University
 
 
 # 🟣 Table of Contents 🟣
+* [Introduction](#Introduction)
 * [Background](#background)
 * [Description Of Tasks](#tasks)
 * [Folders in Repository ](#folders)  
 * [Requirements](#requirements)  
 
+# 🟣 Introduction <a name="Introduction"/> 🟣
 # 🟣 Background <a name="background"/> 🟣
 # 🟣 Description Of Tasks <a name="tasks"/> 🟣
   
