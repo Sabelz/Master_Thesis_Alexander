@@ -17,6 +17,7 @@ Department of Information Technology, Uppsala University
 * [Requirements](#requirements)  
 
 # 🟣 Introduction <a name="Introduction"/> 🟣
+Master thesis at Uppsala University, taking place between January 2024 - June 2024
 # 🟣 Background <a name="background"/> 🟣
 # 🟣 Description Of Tasks <a name="tasks"/> 🟣
   
