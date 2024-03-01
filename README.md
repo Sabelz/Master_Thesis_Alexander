@@ -1,6 +1,6 @@
 
 # 🟣 Master Thesis 🟣
-## An Empiricial Study of Scalable Gaussian processes
+## An Empirical Study of Scalable Gaussian processes
 ### Alexander Sabelström - @[Linkedin](https://www.linkedin.com/in/alexander-sabelstr%C3%B6m-484256293/)
 
 
