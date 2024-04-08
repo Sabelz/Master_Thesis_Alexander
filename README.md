@@ -21,8 +21,7 @@ Master thesis at Uppsala University, taking place between January 2024 - June 20
 # 🟣 Folders in Repository  <a name="folders"/> 🟣
 
 # 🟣 Requirements <a name="requirements"/> 🟣
-Project was developed in Google Colab, installing gpytorch was required. Other packages already included<br /> 
-Check [requirements](requirements.txt) for packages already included in Google Colab
+Project was developed in Google Colab, installing gpytorch, jaxopt was required. Other packages already included<br /> 
 
 # 🟣 Acknowledgements <a name="acknowledgements"/> 🟣
 Supervisor: Zheng Zhao - zheng.zhao@it.uu.se  
